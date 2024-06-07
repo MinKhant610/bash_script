@@ -1,0 +1,8 @@
+Name : MinKhant
+Age  : 20
+email: minkhant1234@gmail.com
+--------------------------
+Name : MgMg
+Age  : 20
+email: mgmg@gmail.com
+--------------------------
